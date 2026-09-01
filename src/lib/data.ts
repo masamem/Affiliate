@@ -146,30 +146,29 @@ function P(p: PInit): Product {
 
 export const seedProducts: Product[] = [
   P({
-  id: 2,
-  name: "سامسونج جالكسي S24 ألترا – 512GB",
-  slug: "samsung-galaxy-s24-ultra",
-  price: 3899,
-  oldPrice: 4599,
+  id: 21,
+  name: "Apple iPhone 17 – 256GB أسود",
+  slug: "apple-iphone-17-256gb-black",
+  price: 0,
+  oldPrice: null,
   storeId: 2,
   categoryId: 1,
   image: IMG.phone,
-  badge: "hot",
-  rating: 4.7,
-  views: 2811,
-  createdDaysAgo: 1,
+  rating: 4.8,
+  views: 0,
+  createdDaysAgo: 0,
 
-  affiliateUrl: "https://s.noon.com/k5EPQc7GatE",
+  affiliateUrl: "https://www.noon.com/saudi-en/iphone-17-256gb-esim-only-black-5g-with-facetime-middle-east-version/N70211519V/p/?o=d945d3a1b78f2b5e&utm_campaign=CMP2ce0b63a6a1anoon&utm_medium=AFFe84995744006&adjust_deeplink_js=1&utm_source=C1000264L",
 
-  short: "قلم S مدمج وكاميرا 200MP مع ذكاء اصطناعي متكامل.",
-  desc: "جالكسي S24 ألترا يجمع بين الكاميرا فائقة الدقة 200MP ومزايا Galaxy AI للترجمة الفورية وتحرير الصور، مع شاشة Dynamic AMOLED مقاس 6.8 إنش وإطار تيتانيوم.",
-    features: [
-  "كاميرا 200MP بتقريب حتى 100x",
-  "مزايا Galaxy AI للترجمة والتلخيص",
-  "شاشة 6.8 إنش بمعدل 120Hz",
-  "قلم S Pen مدمج",
-],
-  keywords: "سامسونج, s24 ultra, جالكسي, عروض جوالات",
+  short: "آيفون 17 سعة 256GB بلون أسود، إصدار الشرق الأوسط ودعم eSIM.",
+  desc: "اطّلع على السعر الحالي والتوفر مباشرة على متجر نون السعودية.",
+  features: [
+    "سعة تخزين 256GB",
+    "دعم 5G",
+    "eSIM",
+    "إصدار الشرق الأوسط",
+  ],
+  keywords: "ايفون 17, iphone 17, نون, عروض ايفون",
 }),
 
   P({
