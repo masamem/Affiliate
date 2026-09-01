@@ -108,6 +108,7 @@ interface PInit {
   desc: string;
   features: string[];
   keywords?: string;
+  affiliateUrl?: string;
 }
 
 function P(p: PInit): Product {
@@ -127,7 +128,9 @@ function P(p: PInit): Product {
     price: p.price,
     oldPrice: p.oldPrice,
     discountPercentage: discount,
-    affiliateUrl: `https://example.com/affiliate?tag=wafferly-21&asins=${p.slug}`,
+    affiliateUrl:
+      p.affiliateUrl ||
+      `https://example.com/affiliate?tag=wafferly-21&asins=${p.slug}`,
     storeId: p.storeId,
     categoryId: p.categoryId,
     badge: p.badge || "",
@@ -161,14 +164,7 @@ export const seedProducts: Product[] = [
   affiliateUrl: "https://www.noon.com/saudi-en/iphone-17-256gb-esim-only-black-5g-with-facetime-middle-east-version/N70211519V/p/?o=d945d3a1b78f2b5e&utm_campaign=CMP2ce0b63a6a1anoon&utm_medium=AFFe84995744006&adjust_deeplink_js=1&utm_source=C1000264L",
 
   short: "آيفون 17 سعة 256GB باللون الأسود، 5G وeSIM، نسخة الشرق الأوسط مع FaceTime.",
-  desc: "اطّلع على السعر الحالي والتوفر مباشرة على متجر نون السعودية.",
-  features: [
-    "سعة تخزين 256GB",
-    "دعم 5G",
-    "eSIM",
-    "إصدار الشرق الأوسط",
-  ],
-  keywords: "ايفون 17, iphone 17, نون, عروض ايفون",
+  ...
 }),
 
   P({
