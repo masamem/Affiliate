@@ -163,22 +163,15 @@ export const seedProducts: Product[] = [
 
   short: "قلم S مدمج وكاميرا 200MP مع ذكاء اصطناعي متكامل.",
   desc: "جالكسي S24 ألترا يجمع بين الكاميرا فائقة الدقة 200MP ومزايا Galaxy AI للترجمة الفورية وتحرير الصور، مع شاشة Dynamic AMOLED مقاس 6.8 إنش وإطار تيتانيوم.",
-  features: [
-    "كاميرا 200MP بتقريب حتى 100x",
-    "مزايا Galaxy AI للترجمة والتلخيص",
-    "شاشة 6.8 إنش بمعدل 120Hz",
-    "قلم S Pen مدمج",
-  ],
-})
-  P({
-    id: 2, name: "سامسونج جالكسي S24 ألترا – 512GB", slug: "samsung-galaxy-s24-ultra",
-    price: 3899, oldPrice: 4599, storeId: 2, categoryId: 1, image: IMG.phone,
-    badge: "hot", rating: 4.7, views: 2811, createdDaysAgo: 1,
-    short: "قلم S مدمج وكاميرا 200MP مع ذكاء اصطناعي متكامل.",
-    desc: "جالكسي S24 ألترا يجمع بين الكاميرا فائقة الدقة 200MP ومزايا Galaxy AI للترجمة الفورية وتحرير الصور، مع شاشة Dynamic AMOLED مقاس 6.8 إنش وإطار تيتانيوم.",
-    features: ["كاميرا 200MP بتقريب حتى 100x", "مزايا Galaxy AI للترجمة والتلخيص", "شاشة 6.8 إنش بمعدل 120Hz", "قلم S Pen مدمج"],
-    keywords: "سامسونج, s24 ultra, جالكسي",
-  }),
+    features: [
+  "كاميرا 200MP بتقريب حتى 100x",
+  "مزايا Galaxy AI للترجمة والتلخيص",
+  "شاشة 6.8 إنش بمعدل 120Hz",
+  "قلم S Pen مدمج",
+],
+  keywords: "سامسونج, s24 ultra, جالكسي, عروض جوالات",
+}),
+
   P({
     id: 3, name: "سماعة سوني WH-1000XM5 اللاسلكية", slug: "sony-wh1000xm5",
     price: 1249, oldPrice: 1599, storeId: 1, categoryId: 2, image: IMG.headphones,
