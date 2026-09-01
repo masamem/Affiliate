@@ -146,14 +146,30 @@ function P(p: PInit): Product {
 
 export const seedProducts: Product[] = [
   P({
-    id: 1, name: "آيفون 16 برو – 256GB تيتانيوم", slug: "apple-iphone-16-pro",
-    price: 4699, oldPrice: 5199, storeId: 1, categoryId: 1, image: IMG.phone,
-    badge: "pick", featured: true, rating: 4.8, views: 3264, createdDaysAgo: 2, expiryDays: 5,
-    short: "أحدث هواتف آبل بشريحة A18 Pro وكاميرا بدقة 48 ميجابكسل.",
-    desc: "هاتف آيفون 16 برو يأتي بتصميم تيتانيوم خفيف ومتين، وشاشة Super Retina XDR مقاس 6.3 إنش، مع كاميرا احترافية بدقة 48MP وتقنيات تصوير سينمائي. خيار مثالي لمن يبحث عن أداء قوي يدوم لسنوات.",
-    features: ["شريحة A18 Pro الأسرع في فئتها", "كاميرا رئيسية 48MP مع تقريب بصري 5x", "بطارية تدوم يومًا كاملًا من الاستخدام", "هيكل تيتانيوم مقاوم للخدوش"],
-    keywords: "ايفون 16, iphone 16 pro, عروض جوالات",
-  }),
+  id: 2,
+  name: "سامسونج جالكسي S24 ألترا – 512GB",
+  slug: "samsung-galaxy-s24-ultra",
+  price: 3899,
+  oldPrice: 4599,
+  storeId: 2,
+  categoryId: 1,
+  image: IMG.phone,
+  badge: "hot",
+  rating: 4.7,
+  views: 2811,
+  createdDaysAgo: 1,
+
+  affiliateUrl: "https://s.noon.com/k5EPQc7GatE",
+
+  short: "قلم S مدمج وكاميرا 200MP مع ذكاء اصطناعي متكامل.",
+  desc: "جالكسي S24 ألترا يجمع بين الكاميرا فائقة الدقة 200MP ومزايا Galaxy AI للترجمة الفورية وتحرير الصور، مع شاشة Dynamic AMOLED مقاس 6.8 إنش وإطار تيتانيوم.",
+  features: [
+    "كاميرا 200MP بتقريب حتى 100x",
+    "مزايا Galaxy AI للترجمة والتلخيص",
+    "شاشة 6.8 إنش بمعدل 120Hz",
+    "قلم S Pen مدمج",
+  ],
+})
   P({
     id: 2, name: "سامسونج جالكسي S24 ألترا – 512GB", slug: "samsung-galaxy-s24-ultra",
     price: 3899, oldPrice: 4599, storeId: 2, categoryId: 1, image: IMG.phone,
