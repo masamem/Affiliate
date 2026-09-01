@@ -147,10 +147,10 @@ function P(p: PInit): Product {
 export const seedProducts: Product[] = [
   P({
   id: 21,
-  name: "Apple iPhone 17 – 256GB أسود",
+  name: "آيفون 17 256GB أسود 5G (eSIM) - نسخة الشرق الأوسط",
   slug: "apple-iphone-17-256gb-black",
-  price: 3299,
-  oldPrice: 3599,
+  price: 3999,
+  oldPrice: null,
   storeId: 2,
   categoryId: 1,
   image: IMG.phone,
@@ -160,7 +160,7 @@ export const seedProducts: Product[] = [
 
   affiliateUrl: "https://www.noon.com/saudi-en/iphone-17-256gb-esim-only-black-5g-with-facetime-middle-east-version/N70211519V/p/?o=d945d3a1b78f2b5e&utm_campaign=CMP2ce0b63a6a1anoon&utm_medium=AFFe84995744006&adjust_deeplink_js=1&utm_source=C1000264L",
 
-  short: "آآيفون 17 256 جيجابايت أسود 5G (eSim فقط) مع فيس تايم - نسخة الشرق الأوسط.",
+  short: "آيفون 17 سعة 256GB باللون الأسود، 5G وeSIM، نسخة الشرق الأوسط مع FaceTime.",
   desc: "اطّلع على السعر الحالي والتوفر مباشرة على متجر نون السعودية.",
   features: [
     "سعة تخزين 256GB",
