@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://wafferly.sa/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://wafferly.sa/deals</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wafferly.sa/best</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/stores</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/categories</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/about</loc><priority>0.4</priority></url>
+  <url><loc>https://wafferly.sa/contact</loc><priority>0.4</priority></url>
+  <url><loc>https://wafferly.sa/disclosure</loc><priority>0.5</priority></url>
+  <url><loc>https://wafferly.sa/privacy</loc><priority>0.3</priority></url>
+  <url><loc>https://wafferly.sa/terms</loc><priority>0.3</priority></url>
+  <url><loc>https://wafferly.sa/cookies</loc><priority>0.3</priority></url>
+
+  <url><loc>https://wafferly.sa/store/amazon</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/store/noon</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/store/aliexpress</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/store/shein</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/store/temu</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/store/jarir</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/store/extra</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+
+  <url><loc>https://wafferly.sa/category/mobiles</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/electronics</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/laptops</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/appliances</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/home-kitchen</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/fashion</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/perfumes</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/beauty</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wafferly.sa/category/gaming</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wafferly.sa/category/kids</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wafferly.sa/category/cars</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wafferly.sa/category/sports</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wafferly.sa/category/watches</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/category/accessories</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://wafferly.sa/product/apple-iphone-16-pro</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wafferly.sa/product/samsung-galaxy-s24-ultra</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/product/sony-wh1000xm5</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/product/anker-soundcore-q45</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/apple-airpods-pro-2</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/product/samsung-galaxy-buds3</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/apple-watch-series-10</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/product/huawei-watch-gt5</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/macbook-air-m3</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/product/asus-vivobook-15</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/roborock-s8</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/product/philips-robot-vacuum</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/ninja-air-fryer</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wafferly.sa/product/tefal-air-fryer-xl</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/oriental-oud-perfume</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/musk-al-layl-perfume</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wafferly.sa/product/nike-air-sneakers</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/casual-comfy-sneakers</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://wafferly.sa/product/delonghi-espresso-machine</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://wafferly.sa/product/capsule-coffee-machine</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
