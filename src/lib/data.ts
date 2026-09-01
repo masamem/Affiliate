@@ -164,8 +164,39 @@ export const seedProducts: Product[] = [
   affiliateUrl: "https://www.noon.com/saudi-en/iphone-17-256gb-esim-only-black-5g-with-facetime-middle-east-version/N70211519V/p/?o=d945d3a1b78f2b5e&utm_campaign=CMP2ce0b63a6a1anoon&utm_medium=AFFe84995744006&adjust_deeplink_js=1&utm_source=C1000264L",
 
   short: "آيفون 17 سعة 256GB باللون الأسود، 5G وeSIM، نسخة الشرق الأوسط مع FaceTime.",
+desc: "آيفون 17 سعة 256GB باللون الأسود مع دعم 5G وeSIM وFaceTime، نسخة الشرق الأوسط.",
+features: [
+  "سعة تخزين 256GB",
+  "دعم 5G",
+  "eSIM",
+  "نسخة الشرق الأوسط",
+],
+keywords: "ايفون 17, نون, iphone 17",
 }),
+  
+P({
+  id: 22,
+  name: "اسم منتج أمازون",
+  slug: "amazon-product",
+  price: 999,
+  oldPrice: null,
+  storeId: 1,
+  categoryId: 1,
+  image: IMG.phone,
+  rating: 4.5,
+  views: 0,
+  createdDaysAgo: 0,
 
+  affiliateUrl: "https://link.amazon/B06JU7Tmc",
+
+  short: "وصف مختصر للمنتج",
+  desc: "وصف المنتج",
+  features: [
+    "الميزة الأولى",
+    "الميزة الثانية",
+  ],
+  keywords: "أمازون, عروض",
+}),
   P({
     id: 3, name: "سماعة سوني WH-1000XM5 اللاسلكية", slug: "sony-wh1000xm5",
     price: 1249, oldPrice: 1599, storeId: 1, categoryId: 2, image: IMG.headphones,
